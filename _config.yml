@@ -5,7 +5,7 @@ locale: en_US
 description: Este blog fue elaborado para la materia de Software Libre en la Universidad Nacional De Colombia.
 logo: logo-blog.png
 search: true
-url: "https://github.com/dacardo/DavidTrompa"
+url: https://github.com/dacardo/DavidTrompa
 
 
 # Jekyll configuration
