@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: DavidTrompa
+title: Perfil De Hacker
 locale: en_US
 description: Este blog fue elaborado para la materia de Software Libre en la Universidad Nacional De Colombia.
 logo: logo-blog.png
@@ -34,8 +34,8 @@ owner:
   avatar: mi-foto-de-perfil.jpg
   email: drtrompam@unal.edu.co
   disqus-shortname:
-  twitter: #@Dacardo4
-  facebook: #https://www.facebook.com/Dacardo
+  twitter: @Dacardo4
+  facebook: https://www.facebook.com/Dacardo
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
